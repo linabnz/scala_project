@@ -2,7 +2,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>linabnz</groupId>
-    <artifactId>scala_template</artifactId>
+    <artifactId>scala_project</artifactId>
     <version>1.4</version>
 
     <properties>
@@ -110,7 +110,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/linabnz/scala_template</url>
+            <url>https://maven.pkg.github.com/linabnz/scala_project</url>
         </repository>
     </distributionManagement>
 </project>
